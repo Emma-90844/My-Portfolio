@@ -67,7 +67,7 @@ const PortFolio = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
           {portfolios.map(({ id, src, href }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
-              <a href={href}>
+              <a href={href} target="_blank">
                 <img
                   src={src}
                   alt=""
