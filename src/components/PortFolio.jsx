@@ -1,5 +1,4 @@
 import React from "react";
-import Link from "react-router-dom";
 import kenstore from "../assets/portfolio/kenstore.png";
 
 const PortFolio = () => {
