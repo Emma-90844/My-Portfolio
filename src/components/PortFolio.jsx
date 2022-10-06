@@ -27,7 +27,7 @@ const PortFolio = () => {
     {
       id: 5,
       src: kenstore,
-      href: "https://ken-store-c9l7q2owx-emma-90844.vercel.app/",
+      href: "https://dilelastore.netlify.app/",
     },
     {
       id: 6,
